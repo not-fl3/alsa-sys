@@ -17,7 +17,6 @@ edition = "2018"
 libc = "0.2.65"
 
 [build-dependencies]
-pkg-config = "0.3"
 bindgen = { version = "0.56", optional = true }
 
 [features]
